@@ -1,0 +1,4 @@
+[project]
+name = "ai-self-correction"
+version = "0.1.0"
+description = "Critiques failed tool outputs, identifies root cause errors, and autonomously re-prompts for corrected answers."
